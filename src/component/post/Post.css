@@ -1,0 +1,13 @@
+.post{
+  border: 2px solid burlywood;
+  border-radius: 20px;
+  margin: 15px;
+  padding: 15px;
+  /* color: brown; */
+};
+ p{
+  color: cadetblue;
+};
+h3{
+  color: blueviolet;
+}

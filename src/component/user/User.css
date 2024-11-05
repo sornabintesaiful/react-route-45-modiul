@@ -1,0 +1,7 @@
+.user{
+  border: 2px solid silver;
+  align-items: baseline;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 15px;
+}
